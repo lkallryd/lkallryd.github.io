@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://pixabay.com/get/e833b60628f5043ed1584d05fb0938c9bd22ffd41db6144190f4c27ba5/car-1679015_1280.jpg');
+  background-image: href="car.png";
   background-size: cover;
   color: #ffffff;
   height: 500px;
