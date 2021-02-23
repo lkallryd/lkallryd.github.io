@@ -1,2 +1,14 @@
-Torque model GEP3 2018: later stages / verification high temperature and altitude
-Torque model VEP4 Gen3 MP/HP: base calibration: VVT, ignition set points and engine out emission and verification.
+Career achivements
+
+* 2018: Torque model GEP3 Volvos 1.5 liter 3 cylinder petrol engine - torque model verification high temperature & altitude - power certification and test support
+
+* 2019- 2020: Torque model VEA Generation 3 MP/HP (197hp/300hp) 2 liter 4 cylinder engine - full data collection in test cells, modelling and analyze 
+  - Base calibration: VVT setpoints for optimal fuel consumption
+  - Optimal ignition set points (MBT base map and compensations)
+  - Various ambient condition compensations: 
+      - Cold climate work Kiruna/Jokkmokk
+      - High temperature Phoenix, AZ & Upington South Africa
+      - High altitude Breckenridge CO & Pontresina Switzerland
+  - Engine power certification and drivability work i.e gearshifts torque19 reductions etc
+
+ * 2020 - present: Full data collection in test cells, modelling and analyze for torque model VEA Generation 3 LP 2 liter 4 cylinder engine.
